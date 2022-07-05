@@ -28,8 +28,7 @@
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/karar3lsaidi)
-[![Behance](https://cdn-icons-png.flaticon.com/512/5968/5968764.png)](https://behance.net/karar3lsaidi)
-
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/karar3lsaidi)
 
 
 # 💻 Tech Stack:

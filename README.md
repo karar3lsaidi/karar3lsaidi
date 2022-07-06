@@ -72,8 +72,16 @@
 
 ### development   
 <div align="center">  
-  <p><img src="https://i.postimg.cc/Dfdzw0Ly/illustrator.png" width="64" height="64" alt="" /></p>
+<img style="margin: 10px" src="https://i.postimg.cc/050H5fJz/photoshop-2.png" alt="photoshop" height="75" />  
+<img style="margin: 10px" src="https://i.postimg.cc/fbDHmSdH/illustrator-1.png" alt="illustrator" height="75" />  
+<img style="margin: 10px" src="https://i.postimg.cc/T3r7KJKL/indesign-1.png" alt="indesign" height="75" />  
+<img style="margin: 10px" src="https://i.postimg.cc/15VYQQPK/experience.png" alt="xd" height="75" />  
+<img style="margin: 10px" src="https://i.postimg.cc/ZnCs0kN4/dreamwear.png" alt="dreamwear" height="75" />  
+<img style="margin: 10px" src="https://i.postimg.cc/fbC8KWjM/lightroom.png" alt="lightroom" height="75" />  
+<img style="margin: 10px" src="https://i.postimg.cc/2652Xp2h/muse.png" alt="muse" height="75" />  
+<img style="margin: 10px" src="https://i.postimg.cc/FRPn9F7T/audition.png" alt="audition" height="75" />  
 </div>
+  
 
 </td><td valign="top" width="50%">
 
@@ -81,7 +89,22 @@
 
 ### Tools  
 <div align="center">  
-  <p><img src="https://i.postimg.cc/Dfdzw0Ly/illustrator.png" width="64" height="64" alt="" /></p>
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" />  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
 </div>
   
 

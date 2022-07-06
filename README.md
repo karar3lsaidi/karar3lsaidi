@@ -43,23 +43,23 @@
 
 ### Tools   
 <div align="center">  
-<img style="margin: 10px" src="https://i.postimg.cc/Kc1kbnvt/photoshop.png" alt="photoshop" height="75" />  
-<img style="margin: 10px" src="https://i.postimg.cc/bJJPQHFg/Illustrator.png" alt="illustrator" height="75" />  
-<img style="margin: 10px" src="https://i.postimg.cc/W1Gsj4kG/indesign.png" alt="indesign" height="75" />  
-<img style="margin: 10px" src="https://i.postimg.cc/4NtY7scd/xd.png" alt="xd" height="75" />  
-<img style="margin: 10px" src="https://i.postimg.cc/Vv0chsw-b/Dreamweaver.png" alt="dreamwear" height="75" />  
-<img style="margin: 10px" src="https://i.postimg.cc/LXbpvYcp/Lightroom.png" alt="lightroom" height="75" />  
-<img style="margin: 10px" src="https://i.postimg.cc/KcCK8RRw/Premiere.png" alt="premiere" height="75" />  
-<img style="margin: 10px" src="https://i.postimg.cc/F1tQXtFC/Audition.png" alt="audition" height="75" /> 
-<img style="margin: 10px" src="https://i.postimg.cc/SxFmw9JQ/Muse.png" alt="Muse" height="75" />  
-<img style="margin: 10px" src="https://i.postimg.cc/HWPSsDDj/Corel-DRAW.png" alt="Corel-DRAW" height="75" />  
-<img style="margin: 10px" src="https://i.postimg.cc/65ymd6Ld/figma2.png" alt="figma" height="75" />  
-<img style="margin: 10px" src="https://i.postimg.cc/pryqYk82/sketch.png" alt="sketch" height="75" />  
-<img style="margin: 10px" src="https://i.postimg.cc/2600Zg1c/sony-vegas.png" alt="vegas" height="75" />  
-<img style="margin: 10px" src="https://i.postimg.cc/NMDzx5zx/excel.png" alt="excel" height="75" />  
-<img style="margin: 10px" src="https://i.postimg.cc/W46W2dTP/powerpoint.png" alt="powerpoint" height="75" />  
-<img style="margin: 10px" src="https://i.postimg.cc/WzKS9r60/word.png" alt="word" height="75" />  
-<img style="margin: 10px" src="https://i.postimg.cc/4NqFwCBj/microsoft-access.png" alt="access" height="75" />  
+<img style="margin: 10px" src="https://i.postimg.cc/Kc1kbnvt/photoshop.png" alt="photoshop" height="64" />  
+<img style="margin: 10px" src="https://i.postimg.cc/bJJPQHFg/Illustrator.png" alt="illustrator" height="64" />  
+<img style="margin: 10px" src="https://i.postimg.cc/W1Gsj4kG/indesign.png" alt="indesign" height="64" />  
+<img style="margin: 10px" src="https://i.postimg.cc/4NtY7scd/xd.png" alt="xd" height="64" />  
+<img style="margin: 10px" src="https://i.postimg.cc/Vv0chsw-b/Dreamweaver.png" alt="dreamwear" height="64" />  
+<img style="margin: 10px" src="https://i.postimg.cc/LXbpvYcp/Lightroom.png" alt="lightroom" height="64" />  
+<img style="margin: 10px" src="https://i.postimg.cc/KcCK8RRw/Premiere.png" alt="premiere" height="64" />  
+<img style="margin: 10px" src="https://i.postimg.cc/F1tQXtFC/Audition.png" alt="audition" height="64" /> 
+<img style="margin: 10px" src="https://i.postimg.cc/SxFmw9JQ/Muse.png" alt="Muse" height="64" />  
+<img style="margin: 10px" src="https://i.postimg.cc/HWPSsDDj/Corel-DRAW.png" alt="Corel-DRAW" height="64" />  
+<img style="margin: 10px" src="https://i.postimg.cc/65ymd6Ld/figma2.png" alt="figma" height="64" />  
+<img style="margin: 10px" src="https://i.postimg.cc/pryqYk82/sketch.png" alt="sketch" height="64" />  
+<img style="margin: 10px" src="https://i.postimg.cc/2600Zg1c/sony-vegas.png" alt="vegas" height="64" />  
+<img style="margin: 10px" src="https://i.postimg.cc/NMDzx5zx/excel.png" alt="excel" height="64" />  
+<img style="margin: 10px" src="https://i.postimg.cc/W46W2dTP/powerpoint.png" alt="powerpoint" height="64" />  
+<img style="margin: 10px" src="https://i.postimg.cc/WzKS9r60/word.png" alt="word" height="64" />  
+<img style="margin: 10px" src="https://i.postimg.cc/4NqFwCBj/microsoft-access.png" alt="access" height="64" />  
 
 </div>
   

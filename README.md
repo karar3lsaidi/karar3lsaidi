@@ -52,6 +52,14 @@
 <img style="margin: 10px" src="https://i.postimg.cc/KcCK8RRw/Premiere.png" alt="premiere" height="75" />  
 <img style="margin: 10px" src="https://i.postimg.cc/F1tQXtFC/Audition.png" alt="audition" height="75" /> 
 <img style="margin: 10px" src="https://i.postimg.cc/SxFmw9JQ/Muse.png" alt="Muse" height="75" />  
+<img style="margin: 10px" src="https://i.postimg.cc/HWPSsDDj/Corel-DRAW.png" alt="Corel-DRAW" height="75" />  
+<img style="margin: 10px" src="https://i.postimg.cc/65ymd6Ld/figma2.png" alt="figma" height="75" />  
+<img style="margin: 10px" src="https://i.postimg.cc/pryqYk82/sketch.png" alt="sketch" height="75" />  
+<img style="margin: 10px" src="https://i.postimg.cc/2600Zg1c/sony-vegas.png" alt="vegas" height="75" />  
+<img style="margin: 10px" src="https://i.postimg.cc/NMDzx5zx/excel.png" alt="excel" height="75" />  
+<img style="margin: 10px" src="https://i.postimg.cc/W46W2dTP/powerpoint.png" alt="powerpoint" height="75" />  
+<img style="margin: 10px" src="https://i.postimg.cc/WzKS9r60/word.png" alt="word" height="75" />  
+<img style="margin: 10px" src="https://i.postimg.cc/4NqFwCBj/microsoft-access.png" alt="access" height="75" />  
 
 </div>
   

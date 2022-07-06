@@ -1,31 +1,35 @@
 ### Hi there 👋
 
 # 💫 About Me:
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="left" alt="Computador iuriCode">
 
-<p align="left"> 
-<h3>My Name is Karrar Alsaidi 
- graphic designer and web developer Passionate about solving technical problems and implementing creative ideas, expert in the field of information technology, security and protection, I am good at working on the most important and latest web technologies I provide design and development services for websites and electronic stores with the highest quality and lowest cost</h3>
+<p align="right"> 
+<h3>مصمم جرافيك ديزاين ومطور مواقع ويب سايت وتطبيقات انظمة الاندرويد, خبير في مجال تكنولوجيا المعلومات والامن والحماية حاصل على شهادات خبرة في التصميم والتسويق الرقمي, اجيد العمل على اغلب برامج الجرافيك 2D و 3D وصناعة المونتاج كذلك التصميم الهندسي والديكور بالاضافة الى برامج الاوفيس والداتا بيز, فني سوفت وير وهارد وير 
 
-<img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f4bc.png" width=16 height=16> My Services
+يمكنني تنفيذ مشروعك مهما كان نوعه وتحويل الفكرة الى مشروع جاهز للعمل
+ 
+<img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f4bc.png" width=16 height=16> خدماتي
 
 
-<p align="left">
+<p align="right">
 <ul>
-<li>Website design and development</li>
+<li>تصميم وتطوير المواقع
 </ul>
 </p>
 
 <ul>
-<li>E-commerce design</li>
+<li>تصميم المتاجر الالكترونية
 </ul>
-<p align="left">
+<p align="right">
 
 <ul>
-<li>Graphic design</li>
+<li>جرافيك ديزاين
 </ul>
   
 </p>  
+
+</h3>
+
 
 ## 🌐 Connect with me:
 <p><a href="https://www.facebook.com/Karrar3AlSaidi"><img src="https://i.imgur.com/avPgFRf.png" alt="" /></a>&nbsp;<a href="https://twitter.com/karar3lsaidi"><img src="https://i.postimg.cc/x8h2XG1Z/twitter-1.png" alt="" /></a>&nbsp;<a href="https://www.instagram.com/karar3lsaidi"><img src="https://i.postimg.cc/ZqSJPLxt/instagram.png" alt="" /></a>&nbsp;<a href="https://www.linkedin.com/in/karar3lsaidi"><img src="https://i.postimg.cc/HsrWTnkK/linkedin.png" width="32" height="32" alt="" /></a><a href="https://www.behance.net/karar3lsaidi">&nbsp;</a><img src="https://i.postimg.cc/5ySCQbhN/pinterest.png" alt="" />&nbsp;<a href="https://www.behance.net/karar3lsaidi"><img src="https://i.postimg.cc/YCgpmPgz/behance.png" alt="" width="32" height="32" /></a>&nbsp;<a href="https://karar3lsaidi.tumblr.com/"><img src="https://i.postimg.cc/rsKTyZMW/tumblr.png" width="32" height="32" alt="" /></a>&nbsp;<a href="https://t.me/s/k3saidi"><img src="https://i.postimg.cc/ZRfZSzt4/telegram.png" alt="" /></a>&nbsp;<a href="https://medium.com/@karar3lsaidi"><img src="https://i.postimg.cc/B6ZskQzm/medium.png" width="32" height="32" alt="" /></a>&nbsp;<a href="https://api.whatsapp.com/send/?phone=9647827306098&amp;text&amp;app_absent=0"><img src="https://i.postimg.cc/DfMFphPc/whatsapp.png" width="32" height="32" alt="" /></a>&nbsp;<a href="https://alsa3idi.blogspot.com/"><img src="https://i.postimg.cc/15bmXSgz/blogger.png" width="32" height="32" alt="" /></a></p>

@@ -14,31 +14,6 @@
 <p></p>  
    </h2>
  
-<h2 style="text-align: center;"><strong>الخدمات</strong></h2>
-<table border="1" style="width: 100%; border-collapse: collapse; float: right;">
-<tbody>
-<tr>
-<td style="width: 33.3333%; text-align: right;">
-<h5 class="has-text-align-right"><img src="https://karar3lsaidi.files.wordpress.com/2022/06/coding-2.png?w=128" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></h5>
-<h2 class="has-text-align-right">تصميم وتطوير المواقع</h2>
-<p class="has-text-align-center has-small-font-size"><strong>تصميم وتطوير مواقع الشركات والمواقع الشخصية والاخبارية والطبية والمواقع التعليمية والمدونات بأحدث التقنيات</strong></p>
-<div class="is-content-justification-center wp-container-7 wp-block-buttons"></div>
-</td>
-<td style="width: 33.3333%;">
-<p><img src="https://karar3lsaidi.files.wordpress.com/2022/06/responsive-design.png?w=128" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
-<h2 class="has-text-align-right" style="text-align: center;">تصميم المتاجر الالكترونية</h2>
-<p class="has-text-align-right has-small-font-size"><strong>انشاء وتصميم المتاجر الالكترونية متجاوبة مع كافة الاجهزة وبلوحة تحكم احترافية عربية 100%</strong></p>
-<div class="is-content-justification-center wp-container-9 wp-block-buttons"></div>
-</td>
-<td style="width: 33.3333%;">
-<p><img src="https://karar3lsaidi.files.wordpress.com/2022/06/search-engine-optimization.png?w=128" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
-<h2 class="has-text-align-right" style="text-align: center;">تحسين وتسريع المواقع</h2>
-<p class="has-text-align-right has-small-font-size" style="text-align: center;"><strong>سرعة موقعك عامل أساسي في زيادة عدد الزوار والأرباح وتصدر مواقع البحث العالمية مثل Google &amp; Bing &amp; Yandex</strong></p>
-<div class="is-content-justification-center wp-container-11 wp-block-buttons"></div>
-</td>
-</tr>
-</tbody>
-</table>
 
 
 <p align="right"> 
@@ -49,6 +24,36 @@
 </div>  
 
 <br/>  
+
+
+الخدمات
+
+<h2 style="text-align: center;"><strong>الخدمات</strong></h2>
+<table border="1" style="width: 0%; border-collapse: collapse; margin-left: auto; margin-right: auto;" height="464">
+<tbody>
+<tr>
+<td style="width: 33.3333%; text-align: center;">
+<h5 class="has-text-align-center"><img src="https://karar3lsaidi.files.wordpress.com/2022/06/coding-2.png?w=128" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></h5>
+<h2 class="has-text-align-center">تصميم وتطوير المواقع</h2>
+<p class="has-text-align-center has-small-font-size"><strong>تصميم وتطوير مواقع الشركات والمواقع الشخصية والاخبارية والطبية والمواقع التعليمية والمدونات بأحدث التقنيات</strong></p>
+<div class="is-content-justification-center wp-container-7 wp-block-buttons"></div>
+</td>
+<td style="width: 33.3333%;">
+<p><img src="https://karar3lsaidi.files.wordpress.com/2022/06/responsive-design.png?w=128" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<h2 class="has-text-align-center" style="text-align: center;">تصميم المتاجر الالكترونية</h2>
+<p class="has-text-align-center has-small-font-size"><strong>انشاء وتصميم المتاجر الالكترونية متجاوبة مع كافة الاجهزة وبلوحة تحكم احترافية عربية 100%</strong></p>
+<div class="is-content-justification-center wp-container-9 wp-block-buttons"></div>
+</td>
+<td style="width: 28.0034%;">
+<p><img src="https://karar3lsaidi.files.wordpress.com/2022/06/search-engine-optimization.png?w=128" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<h2 class="has-text-align-center" style="text-align: center;">تحسين وتسريع المواقع</h2>
+<p class="has-text-align-center has-small-font-size" style="text-align: center;"><strong>سرعة موقعك عامل أساسي في زيادة عدد الزوار والأرباح وتصدر مواقع البحث العالمية مثل Google &amp; Bing &amp; Yandex</strong></p>
+<div class="is-content-justification-center wp-container-11 wp-block-buttons"></div>
+</td>
+</tr>
+</tbody>
+</table>
+
 
 # 💻 المهارات:
 <table><tr><td valign="top" width="50%">

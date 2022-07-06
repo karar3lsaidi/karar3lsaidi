@@ -51,9 +51,9 @@
 <img style="margin: 10px" src="https://i.postimg.cc/LXbpvYcp/Lightroom.png" alt="lightroom" height="64" />  
 <img style="margin: 10px" src="https://i.postimg.cc/KcCK8RRw/Premiere.png" alt="premiere" height="64" />  
 <img style="margin: 10px" src="https://i.postimg.cc/F1tQXtFC/Audition.png" alt="audition" height="64" /> 
-<img style="margin: 10px" src="https://i.postimg.cc/SxFmw9JQ/Muse.png" alt="Muse" height="64" />  
+<img style="margin: 10px" src="https://i.postimg.cc/SxFmw9JQ/Muse.png" alt="Muse" height="64" /> 
+<img style="margin: 10px" src="https://i.postimg.cc/kg7YJDQC/figma.png" alt="figma" height="64" />  
 <img style="margin: 10px" src="https://i.postimg.cc/HWPSsDDj/Corel-DRAW.png" alt="Corel-DRAW" height="64" />  
-<img style="margin: 10px" src="https://i.postimg.cc/65ymd6Ld/figma2.png" alt="figma" height="64" />  
 <img style="margin: 10px" src="https://i.postimg.cc/pryqYk82/sketch.png" alt="sketch" height="64" />  
 <img style="margin: 10px" src="https://i.postimg.cc/2600Zg1c/sony-vegas.png" alt="vegas" height="64" />  
 <img style="margin: 10px" src="https://i.postimg.cc/59qv9DHL/excel.png" alt="excel" height="64" />  

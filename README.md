@@ -6,22 +6,23 @@
 <p align="left"> 
 <h3>My Name is Karrar Alsaidi Freelance graphic designer and web developer Passionate about solving technical problems and implementing creative ideas, expert in the field of information technology, security and protection, I am good at working on the most important and latest web technologies I provide design and development services for websites and electronic stores with the highest quality and lowest cost</h3>
 
+<img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f4bc.png" width=16 height=16> My Services
+
 
 <p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
+<ul>
+<li>Website design and development</li>
+</ul>
 </p>
 
-<p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
-</p>
-
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
-
+<ul>
+<li>E-commerce design</li>
+</ul>
 <p align="left">
 
-
+<ul>
+<li>Graphic design</li>
+</ul>
   
 </p>  
 

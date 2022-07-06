@@ -32,40 +32,11 @@
 ##  portfolio:
 
 
-# 💻 My Skills:
-
-<div align="center">  
-<img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="HTML5" height="75" />  
-<img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="HTML5" height="75" />  
-<img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="HTML5" height="75" />  
-
-
 </div>  
 
 <br/>  
 
-
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=karar3lsaidi&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=karar3lsaidi&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=karar3lsaidi&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=karar3lsaidi&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/karar3lsaidi) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/karar3lsaidi) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/karar3lsaidi) 
-
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  
-  
-  
-  
-  
-  ## My Skill Set  
+# 💻 My Skills:
 <table><tr><td valign="top" width="50%">
 
 
@@ -103,6 +74,33 @@
 </div>
 
 </td></tr></table>  
+
+<br/>  
+
+
+</div>
+
+
+
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=karar3lsaidi&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=karar3lsaidi&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=karar3lsaidi&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=karar3lsaidi&icon=0&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/karar3lsaidi) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/karar3lsaidi) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/karar3lsaidi) 
+
+  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  
+  
+  
+  
+  
 
 <br/>  
 

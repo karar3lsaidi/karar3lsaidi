@@ -66,7 +66,7 @@
 
 
 
-### Frontend  
+### development   
 <div align="center">  
   <p><img src="https://i.postimg.cc/Dfdzw0Ly/illustrator.png" width="64" height="64" alt="" /></p>
 </div>

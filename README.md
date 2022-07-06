@@ -24,7 +24,7 @@
 
 <br/>  
 
-# 💻 My Skills:
+# 💻 المهارات:
 <table><tr><td valign="top" width="50%">
 
 

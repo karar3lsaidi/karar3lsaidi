@@ -26,12 +26,10 @@
   
 </p>  
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/karar3lsaidi)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/karar3lsaidi)
+## 🌐 contact me:
+<p><a href="https://i.imgur.com/avPgFRf.png"><img src="https://i.imgur.com/avPgFRf.png" alt="" /></a>&nbsp;<img src="https://i.postimg.cc/x8h2XG1Z/twitter-1.png" alt="" />&nbsp;<img src="https://i.postimg.cc/ZqSJPLxt/instagram.png" alt="" />&nbsp;<img src="https://i.postimg.cc/HsrWTnkK/linkedin.png" width="32" height="32" alt="" /><a href="https://i.postimg.cc/5ySCQbhN/pinterest.https://i.postimg.cc/YCgpmPgz/behance.png">&nbsp;<img src="https://i.postimg.cc/YCgpmPgz/behance.png" alt="" width="32" height="32" /></a>&nbsp;<img src="https://i.postimg.cc/5ySCQbhN/pinterest.png" alt="" />&nbsp;<img src="https://i.postimg.cc/rsKTyZMW/tumblr.png" width="32" height="32" alt="" />&nbsp;<img src="https://i.postimg.cc/ZRfZSzt4/telegram.png" alt="" />&nbsp;<img src="https://i.postimg.cc/B6ZskQzm/medium.png" width="32" height="32" alt="" />&nbsp;<img src="https://i.postimg.cc/DfMFphPc/whatsapp.png" width="32" height="32" alt="" />&nbsp;<img src="https://i.postimg.cc/15bmXSgz/blogger.png" width="32" height="32" alt="" /></p>
 
-
-# 💻 Tech Stack:
+# 💻 My Skills:
 
 <div align="center">  
 <img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="HTML5" height="75" />  

@@ -81,6 +81,9 @@
 <img style="margin: 10px" src="https://i.postimg.cc/Mp9ppMQJ/wordpress.png" alt="wordpress" height="64" /> 
 <img style="margin: 10px" src="https://i.postimg.cc/X7cvtDNJ/woocommerce.png" alt="woocommerce" height="64" />  
 <img style="margin: 10px" src="https://i.postimg.cc/Gmd42ngG/opencart.png" alt="opencart" height="64" />  
+<img style="margin: 10px" src="https://i.postimg.cc/HLScRv25/magento.png" alt="magento" height="64" />  
+<img style="margin: 10px" src="https://i.postimg.cc/HLW8S1Qd/blogger-1.png" alt="blogger" height="64" />  
+<img style="margin: 10px" src="https://i.postimg.cc/SsBsbBzX/react.png" alt="react" height="64" />  
 
 </div>
 

@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 # 💫 About Me:
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="left" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="right"> 
+<p align="left"> 
 <h3>My Name is Karrar Alsaidi Freelance graphic designer and web developer Passionate about solving technical problems and implementing creative ideas, expert in the field of information technology, security and protection, I am good at working on the most important and latest web technologies I provide design and development services for websites and electronic stores with the highest quality and lowest cost</h3>
 
 <img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f4bc.png" width=16 height=16> My Services

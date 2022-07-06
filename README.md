@@ -70,15 +70,18 @@
 
 ### development  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" />  
+<img style="margin: 10px" src="https://i.postimg.cc/Y9hGHNnP/html-5-1.png" alt="HTML5" height="64" />  
+<img style="margin: 10px" src="https://i.postimg.cc/k4zVXVLg/css.png" alt="CSS3" height="64" />  
+<img style="margin: 10px" src="https://i.postimg.cc/PrGLgwm6/javascript.png" alt="javascript" height="64" />  
+<img style="margin: 10px" src="https://i.postimg.cc/1zz4GcQz/php.png" alt="php" height="64" />  
+<img style="margin: 10px" src="https://i.postimg.cc/59QYK3FY/mysql.png" alt="mysql" height="64" />  
+<img style="margin: 10px" src="https://i.postimg.cc/G282NL9w/python.png" alt="python" height="64" />  
+<img style="margin: 10px" src="https://i.postimg.cc/VkfNwB5F/visual-basic.png" alt="visual-basic" height="64" />  
+<img style="margin: 10px" src="https://i.postimg.cc/65N3jNXg/sass-1.png" alt="sass" height="64" />  
+<img style="margin: 10px" src="https://i.postimg.cc/Mp9ppMQJ/wordpress.png" alt="wordpress" height="64" /> 
+<img style="margin: 10px" src="https://i.postimg.cc/X7cvtDNJ/woocommerce.png" alt="woocommerce" height="64" />  
+<img style="margin: 10px" src="https://i.postimg.cc/Gmd42ngG/opencart.png" alt="opencart" height="64" />  
+
 </div>
 
 </td></tr></table>  

@@ -4,9 +4,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
-</p>
+<h3>My Name is Karrar Alsaidi Freelance graphic designer and web developer Passionate about solving technical problems and implementing creative ideas, expert in the field of information technology, security and protection, I am good at working on the most important and latest web technologies I provide design and development services for websites and electronic stores with the highest quality and lowest cost</h3>
+
 
 <p align="left">
   🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>

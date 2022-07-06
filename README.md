@@ -1,4 +1,4 @@
-<p align="right"> 
+<p align="center"> 
 اهلا بك 👋
 
 <h2>
@@ -14,36 +14,13 @@
  </h3>
 
  
-  <h2>
-<img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f4bc.png" width=16 height=16> خدماتي
- <h2>
+   
 
-
- <h4>
-<p align="right">
-<ul>
-<li>تصميم وتطوير المواقع
-</ul>
-</p>
-
-<ul>
-<li>تصميم المتاجر الالكترونية
-</ul>
-<p align="right">
-
-<ul>
-<li>جرافيك ديزاين
-</ul>
+<p align="center"> 
+ 🌐 وسائل الاتصال
   
-</p>  
-
-</h4>
-
-
-## 🌐 Connect with me:
-<p><a href="https://www.facebook.com/Karrar3AlSaidi"><img src="https://i.imgur.com/avPgFRf.png" alt="" /></a>&nbsp;<a href="https://twitter.com/karar3lsaidi"><img src="https://i.postimg.cc/x8h2XG1Z/twitter-1.png" alt="" /></a>&nbsp;<a href="https://www.instagram.com/karar3lsaidi"><img src="https://i.postimg.cc/ZqSJPLxt/instagram.png" alt="" /></a>&nbsp;<a href="https://www.linkedin.com/in/karar3lsaidi"><img src="https://i.postimg.cc/HsrWTnkK/linkedin.png" width="32" height="32" alt="" /></a><a href="https://www.behance.net/karar3lsaidi">&nbsp;</a><img src="https://i.postimg.cc/5ySCQbhN/pinterest.png" alt="" />&nbsp;<a href="https://www.behance.net/karar3lsaidi"><img src="https://i.postimg.cc/YCgpmPgz/behance.png" alt="" width="32" height="32" /></a>&nbsp;<a href="https://karar3lsaidi.tumblr.com/"><img src="https://i.postimg.cc/rsKTyZMW/tumblr.png" width="32" height="32" alt="" /></a>&nbsp;<a href="https://t.me/s/k3saidi"><img src="https://i.postimg.cc/ZRfZSzt4/telegram.png" alt="" /></a>&nbsp;<a href="https://medium.com/@karar3lsaidi"><img src="https://i.postimg.cc/B6ZskQzm/medium.png" width="32" height="32" alt="" /></a>&nbsp;<a href="https://api.whatsapp.com/send/?phone=9647827306098&amp;text&amp;app_absent=0"><img src="https://i.postimg.cc/DfMFphPc/whatsapp.png" width="32" height="32" alt="" /></a>&nbsp;<a href="https://alsa3idi.blogspot.com/"><img src="https://i.postimg.cc/15bmXSgz/blogger.png" width="32" height="32" alt="" /></a></p>
-
-
+  <div align="center">  
+<p style="text-align: center;"><a href="https://www.facebook.com/Karrar3AlSaidi"><img src="https://i.imgur.com/avPgFRf.png" alt="" style="float: right;" /></a>&nbsp;<a href="https://twitter.com/karar3lsaidi"><img src="https://i.postimg.cc/x8h2XG1Z/twitter-1.png" alt="" /></a>&nbsp;<a href="https://www.instagram.com/karar3lsaidi"><img src="https://i.postimg.cc/ZqSJPLxt/instagram.png" alt="" /></a>&nbsp;<a href="https://www.linkedin.com/in/karar3lsaidi"><img src="https://i.postimg.cc/HsrWTnkK/linkedin.png" width="32" height="32" alt="" /></a><a href="https://www.behance.net/karar3lsaidi">&nbsp;</a><img src="https://i.postimg.cc/5ySCQbhN/pinterest.png" alt="" style="float: right;" />&nbsp;<a href="https://www.behance.net/karar3lsaidi"><img src="https://i.postimg.cc/YCgpmPgz/behance.png" alt="" width="32" height="32" /></a>&nbsp;<a href="https://karar3lsaidi.tumblr.com/"><img src="https://i.postimg.cc/rsKTyZMW/tumblr.png" width="32" height="32" alt="" /></a>&nbsp;<a href="https://t.me/s/k3saidi"><img src="https://i.postimg.cc/ZRfZSzt4/telegram.png" alt="" /></a>&nbsp;<a href="https://medium.com/@karar3lsaidi"><img src="https://i.postimg.cc/B6ZskQzm/medium.png" width="32" height="32" alt="" /></a>&nbsp;<a href="https://api.whatsapp.com/send/?phone=9647827306098&amp;text&amp;app_absent=0"><img src="https://i.postimg.cc/DfMFphPc/whatsapp.png" width="32" height="32" alt="" /></a>&nbsp;<a href="https://alsa3idi.blogspot.com/"><img src="https://i.postimg.cc/15bmXSgz/blogger.png" width="32" height="32" alt="" style="float: right;" /></a></p>
 
 </div>  
 
@@ -51,7 +28,6 @@
 
 # 💻 My Skills:
 <table><tr><td valign="top" width="50%">
-
 
 
 ### Tools   

@@ -25,7 +25,7 @@
   
 </p>  
 
-## 🌐 contact me:
+## 🌐 Connect with me:
 <p><a href="https://i.imgur.com/avPgFRf.png"><img src="https://i.imgur.com/avPgFRf.png" alt="" /></a>&nbsp;<img src="https://i.postimg.cc/x8h2XG1Z/twitter-1.png" alt="" />&nbsp;<img src="https://i.postimg.cc/ZqSJPLxt/instagram.png" alt="" />&nbsp;<img src="https://i.postimg.cc/HsrWTnkK/linkedin.png" width="32" height="32" alt="" /><a href="https://i.postimg.cc/5ySCQbhN/pinterest.https://i.postimg.cc/YCgpmPgz/behance.png">&nbsp;<img src="https://i.postimg.cc/YCgpmPgz/behance.png" alt="" width="32" height="32" /></a>&nbsp;<img src="https://i.postimg.cc/5ySCQbhN/pinterest.png" alt="" />&nbsp;<img src="https://i.postimg.cc/rsKTyZMW/tumblr.png" width="32" height="32" alt="" />&nbsp;<img src="https://i.postimg.cc/ZRfZSzt4/telegram.png" alt="" />&nbsp;<img src="https://i.postimg.cc/B6ZskQzm/medium.png" width="32" height="32" alt="" />&nbsp;<img src="https://i.postimg.cc/DfMFphPc/whatsapp.png" width="32" height="32" alt="" />&nbsp;<img src="https://i.postimg.cc/15bmXSgz/blogger.png" width="32" height="32" alt="" /></p>
 
 # 💻 My Skills:
@@ -57,3 +57,32 @@
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
+  
+  
+  
+  
+  ## My Skill Set  
+<table><tr><td valign="top" width="50%">
+
+
+
+### Frontend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" />  
+</div>
+
+</td><td valign="top" width="50%">
+
+
+
+### Tools  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg" alt="gulp.js" height="75" />  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+

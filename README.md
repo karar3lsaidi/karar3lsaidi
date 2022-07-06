@@ -8,11 +8,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="left" alt="Computador iuriCode">
 
 <p align="right"> 
-<h3>
+<h2>
 مصمم جرافيك ديزاين ومطور مواقع ويب سايت مستقل، شغوف بحل المشاكل التقنية وتنفيذ الأفكار الإبداعية، خبير في مجال تكنولوجيا المعلومات والأمن والحماية، أجيد العمل على اهم واحدث تقنيات الويب برامج الجرافيك 2D و 3D وصناعة المونتاج وبرامج التصميم الهندسي والـ CNC اقدم خدمات تصميم المواقع والمتاجر الالكترونية والدعم الفني
 
   
- </h3>
+ </h2>
  
 
 <p align="center"> 

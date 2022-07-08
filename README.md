@@ -87,6 +87,13 @@
 </div>
 
 
+كك
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karar3lsaidi&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karar3lsaidi&count_private=true&show_icons=true" alt="akash-chowrasia" width="410" /></p>
+
+<hr>
+
 
 
 

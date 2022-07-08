@@ -87,22 +87,13 @@
 </div>
 
 
-كك
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karar3lsaidi&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karar3lsaidi&count_private=true&show_icons=true" alt="akash-chowrasia" width="410" /></p>
+# 📊 الاحصائيات:
+![](https://github-readme-streak-stats.herokuapp.com/?user=karar3lsaidi&theme=light&hide_border=true)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=karar3lsaidi&theme=dark&hide_border=true)<br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karar3lsaidi&show_icons=true&locale=en&layout=compact" alt="karar3lsaidi" /></p>
 
-<hr>
-
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=karar3lsaidi&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=karar3lsaidi&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=karar3lsaidi&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karar3lsaidi&count_private=true&show_icons=true" alt="karar3lsaidi" width="410" /></p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=karar3lsaidi&icon=0&color=0)](https://visitcount.itsvg.in)

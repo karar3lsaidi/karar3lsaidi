@@ -92,6 +92,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karar3lsaidi&count_private=true&show_icons=true" alt="akash-chowrasia" width="410" /></p>
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=karar3lsaidi&theme=dark&hide_border=true)<br/>
+
 <hr>
 
 

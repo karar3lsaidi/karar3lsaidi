@@ -6,8 +6,6 @@
 <h1 align="center">مرحبا&nbsp;<img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif" />, انا كرار السعيدي</h1>
 </div>
 
-  نبذةمختصرة💫 
-  </h2>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="left" alt="Computador iuriCode">
 

@@ -22,6 +22,7 @@
 <div align="center">
 <h4 align="center">&nbsp;وسائل الاتصال</h4>
 </div>
+</div>  
     
   <div align="center">
 <p style="text-align: center;"><a href="https://www.facebook.com/Karrar3AlSaidi"><img style="float: right;" src="https://i.imgur.com/avPgFRf.png" alt="" /></a>&nbsp;<a href="https://twitter.com/karar3lsaidi"><img src="https://i.postimg.cc/x8h2XG1Z/twitter-1.png" alt="" /></a>&nbsp;<a href="https://www.instagram.com/karar3lsaidi"><img src="https://i.postimg.cc/ZqSJPLxt/instagram.png" alt="" /></a>&nbsp;<a href="https://www.linkedin.com/in/karar3lsaidi"><img src="https://i.postimg.cc/HsrWTnkK/linkedin.png" alt="" width="32" height="32" /></a><a href="https://www.behance.net/karar3lsaidi">&nbsp;</a><img style="float: right;" src="https://i.postimg.cc/5ySCQbhN/pinterest.png" alt="" />&nbsp;<a href="https://www.behance.net/karar3lsaidi"><img src="https://i.postimg.cc/YCgpmPgz/behance.png" alt="" width="32" height="32" /></a>&nbsp;<a href="https://karar3lsaidi.tumblr.com/"><img src="https://i.postimg.cc/rsKTyZMW/tumblr.png" alt="" width="32" height="32" /></a>&nbsp;<a href="https://api.whatsapp.com/send/?phone=9647827306098&amp;text&amp;app_absent=0"><img src="https://i.postimg.cc/DfMFphPc/whatsapp.png" alt="" width="32" height="32" /></a><a href="https://alsa3idi.blogspot.com/"><img style="float: right;" src="https://i.postimg.cc/15bmXSgz/blogger.png" alt="" width="32" height="32" /></a></p>
@@ -105,8 +106,11 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=karar3lsaidi&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<div align="center">
+
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/karar3lsaidi) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/karar3lsaidi) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/karar3lsaidi) 
+</div>
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   

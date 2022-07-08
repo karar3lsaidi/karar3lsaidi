@@ -18,13 +18,12 @@
 
 <p align="right"> 
   
-<div align="right">
+<div align="center">
 <p style="text-align: center;"><a href="https://www.facebook.com/Karrar3AlSaidi"><img style="float: right;" src="https://i.imgur.com/avPgFRf.png" alt="" /></a>&nbsp;<a href="https://twitter.com/karar3lsaidi"><img src="https://i.postimg.cc/x8h2XG1Z/twitter-1.png" alt="" /></a>&nbsp;<a href="https://www.instagram.com/karar3lsaidi"><img src="https://i.postimg.cc/ZqSJPLxt/instagram.png" alt="" /></a>&nbsp;<a href="https://www.linkedin.com/in/karar3lsaidi"><img src="https://i.postimg.cc/HsrWTnkK/linkedin.png" alt="" width="32" height="32" /></a><a href="https://www.behance.net/karar3lsaidi">&nbsp;</a><img style="float: right;" src="https://i.postimg.cc/5ySCQbhN/pinterest.png" alt="" />&nbsp;<a href="https://www.behance.net/karar3lsaidi"><img src="https://i.postimg.cc/YCgpmPgz/behance.png" alt="" width="32" height="32" /></a>&nbsp;<a href="https://karar3lsaidi.tumblr.com/"><img src="https://i.postimg.cc/rsKTyZMW/tumblr.png" alt="" width="32" height="32" /></a>&nbsp;<a href="https://api.whatsapp.com/send/?phone=9647827306098&amp;text&amp;app_absent=0"><img src="https://i.postimg.cc/DfMFphPc/whatsapp.png" alt="" width="32" height="32" /></a><a href="https://alsa3idi.blogspot.com/"><img style="float: right;" src="https://i.postimg.cc/15bmXSgz/blogger.png" alt="" width="32" height="32" /></a></p>
 </div>
 </div>  
 
 <br/>  
-
 
 
 

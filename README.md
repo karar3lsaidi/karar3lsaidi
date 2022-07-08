@@ -2,6 +2,11 @@
 اهلا بك 👋
 
 <h2>
+
+<div align="center">
+<h1 align="center">مرحبا&nbsp;<img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif" />, انا كرار السعيدي</h1>
+</div>
+
   نبذةمختصرة💫 
   </h2>
 

@@ -49,15 +49,13 @@
 <img style="margin: 10px" src="https://i.postimg.cc/KcCK8RRw/Premiere.png" alt="premiere" height="64" />  
 <img style="margin: 10px" src="https://i.postimg.cc/F1tQXtFC/Audition.png" alt="audition" height="64" /> 
 <img style="margin: 10px" src="https://i.postimg.cc/SxFmw9JQ/Muse.png" alt="Muse" height="64" /> 
-<img style="margin: 10px" src="https://i.postimg.cc/8CMqcxFQ/bootstrap.png" alt="bootstrap" height="64" />  
-<img style="margin: 10px" src="https://i.postimg.cc/6QSNhd1w/figma.png" alt="figma" height="64" />  
-<img style="margin: 10px" src="https://i.postimg.cc/VNLzLf2r/sketch.png" alt="sketch" height="64" />  
 <img style="margin: 10px" src="https://i.postimg.cc/59qv9DHL/excel.png" alt="excel" height="64" />  
 <img style="margin: 10px" src="https://i.postimg.cc/nc3DB7GL/power-point.png" alt="powerpoint" height="64" />  
 <img style="margin: 10px" src="https://i.postimg.cc/YCjm39dz/word.png" alt="word" height="64" />  
 <img style="margin: 10px" src="https://i.postimg.cc/br8tH95Z/access.png" alt="access" height="64" /> 
-<img style="margin: 10px" src="https://i.postimg.cc/PxCpJz0w/adobe-illustrator.png" alt="access" height="64" />    
-<img style="margin: 10px" src="https://i.postimg.cc/Wb6sgYLP/photoshop.png" alt="access" height="64" /> 
+<img style="margin: 10px" src="https://i.postimg.cc/6QSNhd1w/figma.png" alt="figma" height="64" />  
+<img style="margin: 10px" src="https://i.postimg.cc/VNLzLf2r/sketch.png" alt="sketch" height="64" />  
+
 </div>
   
 

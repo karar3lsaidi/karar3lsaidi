@@ -55,7 +55,8 @@
 <img style="margin: 10px" src="https://i.postimg.cc/59qv9DHL/excel.png" alt="excel" height="64" />  
 <img style="margin: 10px" src="https://i.postimg.cc/nc3DB7GL/power-point.png" alt="powerpoint" height="64" />  
 <img style="margin: 10px" src="https://i.postimg.cc/YCjm39dz/word.png" alt="word" height="64" />  
-<img style="margin: 10px" src="https://i.postimg.cc/br8tH95Z/access.png" alt="access" height="64" />  
+<img style="margin: 10px" src="https://i.postimg.cc/br8tH95Z/access.png" alt="access" height="64" /> 
+<img style="margin: 10px" src="https://i.postimg.cc/PxCpJz0w/adobe-illustrator.png" alt="access" height="64" />    
 
 </div>
   

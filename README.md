@@ -57,7 +57,7 @@
 <img style="margin: 10px" src="https://i.postimg.cc/YCjm39dz/word.png" alt="word" height="64" />  
 <img style="margin: 10px" src="https://i.postimg.cc/br8tH95Z/access.png" alt="access" height="64" /> 
 <img style="margin: 10px" src="https://i.postimg.cc/PxCpJz0w/adobe-illustrator.png" alt="access" height="64" />    
-
+<img style="margin: 10px" src="https://i.postimg.cc/Wb6sgYLP/photoshop.png" alt="access" height="64" /> 
 </div>
   
 

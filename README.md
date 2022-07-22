@@ -34,6 +34,9 @@
 
 
 
+<p style="text-align:center"><a href="https://alsaidi.ml/services/web-design/#web" target="_blank"><img alt="" src="https://i.postimg.cc/g0P8fPwY/3.png" style="height:433px; width:313px" /></a>&nbsp; &nbsp; &nbsp;&nbsp;<a href="https://alsaidi.ml/services/web-store/" target="_blank"><img alt="" src="https://i.postimg.cc/W1Z0W41W/2.png" /></a>&nbsp; &nbsp; &nbsp;&nbsp;<a href="https://alsaidi.ml/services/web-design/" target="_blank"><img alt="تصميم وتطوير المواقع" dir="rtl" src="https://i.postimg.cc/Zn1XmRt7/1.png" style="height:433px; width:314px" /></a></p>
+
+
 
 # 💻 المهارات التقنية:
 <table><tr><td valign="top" width="50%">

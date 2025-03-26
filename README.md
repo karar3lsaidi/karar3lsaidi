@@ -1,26 +1,10 @@
-<p align="center"> 
+<p align="center" data-pg-collapsed> <h2><div align="center">
+            <h1 align="center">Hi&nbsp;<img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"/> </h1>
+        </div><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode"> <p align="center"> </p><h2>I am Karrar Al-Saidi from Iraq,
+    working in the field of graphic design and web development, specializing in Frontend &amp; Backend interfaces. I am an expert in WordPress and passionate about implementing creative ideas and solving technical problems.  
+I have proficiency in the latest and most important web and graphics technologies. Additionally, I am an IT specialist with expertise in cybersecurity, server management, and handling various operating systems.  
+I provide a range of high-quality technical and artistic services across multiple specialties, ensuring precision and efficiency. You can request any service through <a href="https://als3idi.com">my website</a>.<br> <div align="center">
 
-<h2>
-
-<div align="center">
-<h1 align="center">مرحبا&nbsp;<img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif" />  </h1>
-</div>
-
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="left" alt="Computador iuriCode">
-
-  <p align="center"> 
-  <h2>
-<p>انا&nbsp;<a href="https://als3idi.com/">كرار السعيدي</a>&nbsp;من العراق اعمل في مجال الجرافيك ديزاين وتطوير المواقع الالكترونية وواجهات Frontend &amp; Frontback متخصص في ووردبريس شغوف بتنفيذ الافكار الإبداعية وحل المشاكل التقنية، أجيد العمل على أهم واحدث تقنيات الويب والجرافيكس، خبير في مجال تكنولوجيا المعلومات ( IT ) والامن والحماية وإدارة السيرفرات والتعامل مع انظمتها المختلفة<br />
-أقدم مجموعة من الخدمات الفنية والتقنية لعدة تخصصات تتميز بالجودة والإتقان وسرعة في الاداء يمكنك طلب اي خدمة من على <a href="https://als3idi.com/">موقعي الالكتروني</a>&nbsp;</p>
-</p>
-
-<br/>  
-
-    
-  
-
-<div align="center">
 <h4 align="center">&nbsp;وسائل الاتصال</h4>
 </div>
 </div>  

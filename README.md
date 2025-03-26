@@ -5,7 +5,7 @@
 I have proficiency in the latest and most important web and graphics technologies. Additionally, I am an IT specialist with expertise in cybersecurity, server management, and handling various operating systems.  
 I provide a range of high-quality technical and artistic services across multiple specialties, ensuring precision and efficiency. You can request any service through <a href="https://als3idi.com">my website</a>.<br> <div align="center">
 
-<h4 align="center">&nbsp;وسائل الاتصال</h4>
+<h4 align="center">&nbsp;Contact</h4>
 </div>
 </div>  
     

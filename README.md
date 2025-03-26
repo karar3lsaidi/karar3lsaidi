@@ -23,7 +23,7 @@ I provide a range of high-quality technical and artistic services across multipl
 
 
 
-# 💻 المهارات التقنية:
+# 💻 Technical skills:
 <table><tr><td valign="top" width="50%">
 
 
@@ -80,7 +80,7 @@ I provide a range of high-quality technical and artistic services across multipl
 
 
 
-# 📊 الاحصائيات:
+# 📊 Statistics:
 
 
 
@@ -95,7 +95,7 @@ I provide a range of high-quality technical and artistic services across multipl
 
 <div align="center">
 
-  ## للتبرع 💰 
+  ## donate 💰 
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/karar3lsaidi) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/karar3lsaidi) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/karar3lsaidi) 
 </div>
 
@@ -109,6 +109,3 @@ I provide a range of high-quality technical and artistic services across multipl
 </td></tr></table>  
 
 <br/>  
-
-
-

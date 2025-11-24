@@ -29,21 +29,27 @@ I provide a range of high-quality technical and artistic services across multipl
 
 ### Tools   
 <div align="center">  
-<img style="margin: 10px" src="https://i.postimg.cc/Kc1kbnvt/photoshop.png" alt="photoshop" height="64" />  
-<img style="margin: 10px" src="https://i.postimg.cc/bJJPQHFg/Illustrator.png" alt="illustrator" height="64" />  
-<img style="margin: 10px" src="https://i.postimg.cc/W1Gsj4kG/indesign.png" alt="indesign" height="64" />  
-<img style="margin: 10px" src="https://i.postimg.cc/4NtY7scd/xd.png" alt="xd" height="64" />  
-<img style="margin: 10px" src="https://i.postimg.cc/Vv0chsw-b/Dreamweaver.png" alt="dreamwear" height="64" />  
-<img style="margin: 10px" src="https://i.postimg.cc/LXbpvYcp/Lightroom.png" alt="lightroom" height="64" />  
-<img style="margin: 10px" src="https://i.postimg.cc/KcCK8RRw/Premiere.png" alt="premiere" height="64" />  
-<img style="margin: 10px" src="https://i.postimg.cc/F1tQXtFC/Audition.png" alt="audition" height="64" /> 
-<img style="margin: 10px" src="https://i.postimg.cc/SxFmw9JQ/Muse.png" alt="Muse" height="64" /> 
-<img style="margin: 10px" src="https://i.postimg.cc/59qv9DHL/excel.png" alt="excel" height="64" />  
-<img style="margin: 10px" src="https://i.postimg.cc/nc3DB7GL/power-point.png" alt="powerpoint" height="64" />  
-<img style="margin: 10px" src="https://i.postimg.cc/YCjm39dz/word.png" alt="word" height="64" />  
-<img style="margin: 10px" src="https://i.postimg.cc/br8tH95Z/access.png" alt="access" height="64" /> 
-<img style="margin: 10px" src="https://i.postimg.cc/6QSNhd1w/figma.png" alt="figma" height="64" />  
-<img style="margin: 10px" src="https://i.postimg.cc/VNLzLf2r/sketch.png" alt="sketch" height="64" />  
+<img style="margin: 10px" src="https://i.postimg.cc/XvZXHNSw/Adobe-Photoshop.png))" alt="photoshop" height="64" />
+<img style="margin: 10px" src="https://i.postimg.cc/q7zc0dnc/Adobe-Illustrator.png))" alt="Illustrator" height="64" />
+<img style="margin: 10px" src="https://i.postimg.cc/rFj5rpNk/Adobe-In-Design.png))" alt="InDesign" height="64" />
+<img style="margin: 10px" src="https://i.postimg.cc/ZKH6dqxL/Adobe-XD.png))" alt="XD" height="64" />  
+<img style="margin: 10px" src="https://i.postimg.cc/QNJwzpq5/adobe-lightroom-classic.png)" alt="lightroom" height="64" />
+<img style="margin: 10px" src="https://i.postimg.cc/Dy61XzP2/Adobe-Premiere-Pro.png)" alt="Premiere" height="64" />
+<img style="margin: 10px" src="https://i.postimg.cc/PqPbhkZw/Adobe-After-Effects.png)" alt="After-Effects" height="64" />
+<img style="margin: 10px" src="https://i.postimg.cc/k5BN9d88/Adobe-Dreamweaver.png)" alt="Dreamweaver" height="64" /> 
+<img style="margin: 10px" src="https://i.postimg.cc/Hx2T2jsC/Adobe-dimension.png)" alt="Adobe-dimension" height="64" /> 
+<img style="margin: 10px" src="https://i.postimg.cc/3rkKpr5X/Adobe-Audition.png)" alt="Audition" height="64" /> 
+<img style="margin: 10px" src="https://i.postimg.cc/zGfKS1xW/Cinema-4d.png)" alt="Cinema-4d" height="64" /> 
+<img style="margin: 10px" src="https://i.postimg.cc/bNg1tv9T/Corel-DRAW.png)" alt="Corel-DRAW" height="64" />  
+<img style="margin: 10px" src="https://i.postimg.cc/m2j7Hryy/Affinity.png)" alt="Affinity" height="64" />  
+<img style="margin: 10px" src="https://i.postimg.cc/FHK3gQT8/figma.png)" alt="figma" height="64" />
+<img style="margin: 10px" src="https://i.postimg.cc/VNd91cMR/Access.png)" alt="Access" height="64" />  
+<img style="margin: 10px" src="https://i.postimg.cc/dV0rmK5b/Excel.png)" alt="Excel" height="64" />  
+<img style="margin: 10px" src="https://i.postimg.cc/dVSd5SXJ/Word.png)" alt="Word" height="64" />  
+<img style="margin: 10px" src="https://i.postimg.cc/DwzLdKCV/Power-Point.png)" alt="Power-Point" height="64" />  
+
+
+
 
 </div>
   

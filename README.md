@@ -52,7 +52,7 @@ I provide a range of high-quality technical and artistic services across multipl
 
 
 
-### development  
+### Development  
 <div align="center">  
 <img style="margin: 10px" src="https://i.postimg.cc/Y9hGHNnP/html-5-1.png" alt="HTML5" height="64" />  
 <img style="margin: 10px" src="https://i.postimg.cc/k4zVXVLg/css.png" alt="CSS3" height="64" />  
